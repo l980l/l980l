@@ -62,17 +62,6 @@
 <br/>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=l980l&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l980l&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<br/>
-
----
 <div align="center">
   <i>"Always striving to build immersive worlds and performant graphics."</i>
 </div>
