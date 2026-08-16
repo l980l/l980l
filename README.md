@@ -1,7 +1,5 @@
 # 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=100&color=61AFEF&center=true&vCenter=true&width=500&lines=Game+Client+%26+Graphics+Developer;C%2B%2B+%2F+DirectX11+%2F+Unreal+Engine;" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=100&color=61AFEF&center=true&vCenter=true&width=500&lines=Game+Client+%26+Graphics+Developer;C%2B%2B+%2F+DirectX11+%2F+Unreal+Engine;" alt="Typing SVG" />
 
 <br/>
 
