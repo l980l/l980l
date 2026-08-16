@@ -9,7 +9,7 @@
 <div align="center">
   <!-- Portfolio Link -->
   <a href="https://www.miricanvas.com/v2/ko/design2/v/17cf44be-17b9-4074-939d-35ec14e830bb" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-E37400?style=for-the-badge&logo=googleslides&logoColor=white" alt="Portfolio"/>
   </a>
   <!-- Notion Link -->
   <a href="https://summer-licorice-a52.notion.site/12a20dbe9d46462bb689522ca4e312ee" target="_blank">
