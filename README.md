@@ -23,26 +23,26 @@
 
 #### **Languages & Graphics**
 <div align="center">
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![DirectX11](https://img.shields.io/badge/DirectX%2011-0078D7?style=for-the-badge&logo=windows&logoColor=white)
-![HLSL](https://img.shields.io/badge/HLSL-9933FF?style=for-the-badge&logo=shader&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![DirectX11](https://img.shields.io/badge/DirectX%2011-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+  ![HLSL](https://img.shields.io/badge/HLSL-9933FF?style=for-the-badge&logo=shader&logoColor=white)
 </div>
 
 #### **Game Engines**
 <div align="center">
-![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+  ![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+  ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 </div>
 ---
 
 ### 🚀 Experience & Activities
 
 <div align="center">
-| 기간 | 활동 / 기관 | 상세 내용 |
-| :--- | :--- | :--- |
-| **2026.07.07 - 현재** | **SSAFY (삼성청년SW아카데미)** | 데이터트랙 과정 수강 중 |
-| **2024.10.07 - 2024.11.28** | **펄어비스 (Pearl Abyss)** | 테크 인턴십 |
+  | 기간 | 활동 / 기관 | 상세 내용 |
+  | :--- | :--- | :--- |
+  | **2026.07.07 - 현재** | **SSAFY (삼성청년SW아카데미)** | 데이터트랙 과정 수강 중 |
+  | **2024.10.07 - 2024.11.28** | **펄어비스 (Pearl Abyss)** | 테크 인턴십 |
 </div>
 ---
 
