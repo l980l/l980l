@@ -17,6 +17,8 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </div>
 
+<br/>
+
 ### 🛠️ Tech Stack
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -26,11 +28,15 @@
 ![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
+<br/>
+
 ### 🚀 Experience & Activities
 
 | 기간 | 활동 / 기관 | 상세 내용 |
 | :--- | :--- | :--- |
 | **2026.07.07 - 현재** | **SSAFY (삼성청년SW아카데미)** | 데이터트랙 과정 수강 중 |
 | **2024.10.07 - 2024.11.28** | **펄어비스 (Pearl Abyss)** | 테크 인턴십 게임플레이 프로그래머 |
+
+<br/>
 
 [![codemaru card for l980l](https://codemaru.bnbong.com/api/card.svg?github=l980l&boj=k910208&leetcode=codemaru_demo)](https://github.com/l980l)
