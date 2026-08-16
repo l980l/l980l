@@ -16,8 +16,6 @@
   <a href="https://www.youtube.com/@kimkwanhyeon" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </div>
-    
-<br/>
 
 ---
 
@@ -32,8 +30,6 @@
 #### **Game Engines**
 ![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
-<br/>
 
 ---
 
