@@ -8,15 +8,15 @@
 
 <div align="center">
   <!-- Portfolio Link -->
-  <a href="https://your-portfolio-url.com" target="_blank">
+  <a href="https://www.miricanvas.com/v2/ko/design2/v/17cf44be-17b9-4074-939d-35ec14e830bb" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
   <!-- Notion Link -->
-  <a href="https://your-notion-url.com" target="_blank">
+  <a href="https://summer-licorice-a52.notion.site/12a20dbe9d46462bb689522ca4e312ee" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   </a>
   <!-- YouTube Link -->
-  <a href="https://your-youtube-url.com" target="_blank">
+  <a href="https://www.youtube.com/@kimkwanhyeon" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </div>
@@ -66,8 +66,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=l980l&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l980l&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br/>
