@@ -41,6 +41,7 @@
 | **2024.10.07 - 2024.11.28** | **펄어비스 (Pearl Abyss)** | 테크 인턴십 |
 
 ---
+[![codemaru card for l980l](https://codemaru.bnbong.com/api/card.svg?github=l980l&boj=k910208&leetcode=codemaru_demo)](https://github.com/l980l)
 
 <div align="center">
   <i>"Always striving to build immersive worlds and performant graphics."</i>
