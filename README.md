@@ -1,5 +1,4 @@
-# Hi there, I'm a Game & Graphics Developer! 👋
-
+# 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Game+Client+%26+Graphics+Developer;C%2B%2B+%2F+DirectX11+%2F+Unreal+Engine;Data-driven+Problem+Solver" alt="Typing SVG" />
 </div>
@@ -48,20 +47,8 @@
 | **2026.07.07 - 현재** | **SSAFY (삼성청년SW아카데미)** | 데이터트랙 과정 수강 중 |
 | **2024.10.07 - 2024.11.28** | **펄어비스 (Pearl Abyss)** | 테크 인턴십 |
 
-<br/>
-
 ---
 
-### 📜 Certifications
-
-- 🏅 **정보처리기사** *(2024.06.18)*
-- 🗣️ **TOEIC 865**
-- 📜 **한국사능력검정시험 1급**
-- 🍹 **조주기능사** *(2020.04.29)*
-
-<br/>
-
----
 <div align="center">
   <i>"Always striving to build immersive worlds and performant graphics."</i>
 </div>
