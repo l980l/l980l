@@ -32,5 +32,3 @@
 | **2024.10.07 - 2024.11.28** | **펄어비스 (Pearl Abyss)** | 테크 인턴십 게임플레이 프로그래머 |
 
 <br/>
-
-[![codemaru card for l980l](https://codemaru.bnbong.com/api/card.svg?github=l980l&boj=k910208&leetcode=codemaru_demo)](https://github.com/l980l)
